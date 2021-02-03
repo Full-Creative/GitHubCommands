@@ -1,1 +1,1 @@
-This is recipe2
+This is recipe in branch 2
