@@ -1,3 +1,2 @@
 this is about collection
 
-this is about arraylist
